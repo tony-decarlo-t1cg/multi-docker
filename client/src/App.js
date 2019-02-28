@@ -10,6 +10,7 @@ class App extends Component {
     return (
       <Router>
         <div className="App">
+          <h1>Fib Title</h1>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
           <div>
